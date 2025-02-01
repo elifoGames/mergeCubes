@@ -1,3 +1,3 @@
-#[MergeCubes](elifoGames.ru) INFO
+#[MergeCubes](elifoGames.ru) INFO :trollface: <\b>	
 ##Player
-Player Speed: 5 m/sec
+- Player Speed: 5 m/sec
