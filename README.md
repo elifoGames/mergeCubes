@@ -1,7 +1,7 @@
-#[MergeCubes](elifoGames.ru) INFO :trollface: \n
+# [MergeCubes](elifoGames.ru) INFO :trollface:
 
-> [!NOTE]
-> Some information about the game for pro players (speedruners, etc.)
+> [!TIP]
+> Some useful information about the game for pro players (speedruners, etc.)
 
-##Player
+## Player
 - Player Speed: 5 m/sec
