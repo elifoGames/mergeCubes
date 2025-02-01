@@ -1,2 +1,0 @@
-# mergeCubes
-Merge Cubes Website
